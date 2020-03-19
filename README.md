@@ -9,6 +9,8 @@ This is useful if you are running an investigation to determine the usage of the
 
 ```cd SoFinder```
 
+```chmod +x SoFinder.sh```
+
 ```./SoFinder.sh```
 
 ![ur](https://raw.githubusercontent.com/dineshjanghu/SoFinder/master/Ex.png?token=AO2JZWDOUE23BJXPEZFE2B26OMSGW)
