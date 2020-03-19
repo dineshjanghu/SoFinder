@@ -11,7 +11,7 @@ This is useful if you are running an investigation to determine the usage of the
 
 ```./SoFinder.sh```
 
-![ur](#)
+![ur](https://raw.githubusercontent.com/dineshjanghu/SoFinder/master/Ex.png?token=AO2JZWDOUE23BJXPEZFE2B26OMSGW)
 
 & Don't Forget To Follow Me At [Facebook](https://www.facebook.com/dinesh.janghu2/), [Instagram](https://www.instagram.com/dinesh.janghu/), [Github](https://github.com/dineshjanghu) & MY [Twitter](https://twitter.com/DineshJanghu22)..!!!
 
